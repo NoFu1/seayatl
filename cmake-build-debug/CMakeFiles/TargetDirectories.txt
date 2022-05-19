@@ -1,0 +1,3 @@
+/home/flavioa/CLionProjects/seayatl/cmake-build-debug/CMakeFiles/seayatl.dir
+/home/flavioa/CLionProjects/seayatl/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/flavioa/CLionProjects/seayatl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
